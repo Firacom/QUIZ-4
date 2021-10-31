@@ -1,0 +1,49 @@
+# QUIZ-4
+1.Di kampus UTS memiliki pipa yang bisa mengalirkan air sebanyak 125 liter air dalam waktu 50 menit. Berapa cm3/ detik debit anutan pipa air tersebut?
+kita buat flowchart nya terlebih dahulu
+Screenshot 2021-10-30 185538
+
+coba kita run
+Screenshot 2021-10-30 185721
+
+lalu kita akan jalan kan pada Vs code
+Screenshot 2021-10-30 190655
+
+di sini saya jalankan di IDLE karna terminal python saya error. dan hasil nya sama
+Screenshot 2021-10-30 190829
+
+kkubangan kerbau mempunyai volume 40 m3 diisi dengan air, memakai pipa. waktu yang di perklukan untuk mengisi nya sampai penuh yaitu 4 jam. berapa liter/detik debit air yang keluar dari pipa tersebut?
+kita buat flowchart terlebih dahulu
+Screenshot 2021-10-30 202214
+
+-kemudian kita jalankan, dan hasilnya bisa di lihat pada gambar
+
+Screenshot 2021-10-30 202333
+
+kita jalankan di vs code
+Screenshot 2021-10-30 202743
+
+dan hasilnya sama
+Screenshot 2021-10-30 205753
+
+Terdapat sebuah air terjun yang mempunyai debit air sebesar 80 m3/detik. Berapa banyak air yang dipindahkan air terjun dalam waktu 10 menit?
+-seperti biasa kita buat flowchart terlebih dahulu
+
+Screenshot 2021-10-30 205307
+
+lalu kita run
+Screenshot 2021-10-30 205351
+
+ohh iyah ini ada tips sedikit untuk lebih cepat memasukkan program anda cukup klik tools lalu klik source code viewer
+Screenshot 2021-10-30 205910
+
+kemudian kalian pilih program python lalu salin
+Screenshot 2021-10-30 210019
+
+kemudian kita jalankan
+Screenshot 2021-10-30 205822
+
+dan berhasil
+Screenshot 2021-10-30 205753
+
+SELSAI.
